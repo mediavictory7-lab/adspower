@@ -1,0 +1,29 @@
+source,host_or_url,category,notes
+history,https://yopmail.com/wm,disposable_email,startup tab 2026-04-17 17:25
+history,https://www.facebook.com/,facebook,startup tab
+history,https://smit.vn/smit-connect/settings,sms_virtual_number_vn,startup tab
+history,https://eventsmanager.facebook.com/events_manager2/list/dataset/1510086913782243/overview,facebook_events_manager,dataset 1510086913782243
+history,https://adsmanager.facebook.com/adsmanager/manage/campaigns?act=886800917684999,facebook_ads,ad account 886800917684999
+history,https://business.facebook.com/latest/leads_center?asset_id=192231753971811,facebook_business,leads center asset 192231753971811
+history,https://adsmanager.facebook.com/adsmanager/manage/campaigns?act=1404325997818518,facebook_ads,ad account 1404325997818518
+history,https://adsmanager.facebook.com/adsmanager/manage/campaigns?act=1964308337486417,facebook_ads,ad account 1964308337486417
+history,https://adsmanager.facebook.com/adsmanager/manage/campaigns?act=1453635922975231,facebook_ads,ad account 1453635922975231
+history,https://start.adspower.net/,adspower,profile start page
+cookies_login,facebook.com,facebook,logged-in user id 61575027671692
+cookies_login,login.microsoftonline.com,microsoft,presence
+cookies_login,outlook.live.com,microsoft_outlook,presence
+cookies_login,login.live.com,microsoft,presence
+cookies_login,www.microsoft.com,microsoft,presence
+cookies_login,www.google.com,google,presence
+cookies_login,chromewebstore.google.com,google_webstore,presence
+cookies_login,linkedin.com,linkedin,presence
+cookies_login,yopmail.com,disposable_email,presence
+cookies_login,smit.vn,sms_virtual_number_vn,presence
+localstorage_origin,adsmanager.facebook.com,facebook_ads,active local storage
+localstorage_origin,business.facebook.com,facebook_business,active local storage
+localstorage_origin,eventsmanager.facebook.com,facebook_events_manager,active local storage
+localstorage_origin,smit.vn,sms_virtual_number_vn,active local storage
+localstorage_origin,start.adspower.net,adspower,active local storage
+localstorage_origin,www.facebook.com,facebook,active local storage
+localstorage_origin,www.google.com,google,active local storage
+localstorage_origin,yopmail.com,disposable_email,active local storage
